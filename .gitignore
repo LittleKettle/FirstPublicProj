@@ -1,0 +1,9 @@
+*.res
+*.tlb
+*.stat
+*.local
+*.identcache
+*.projdata
+__history/
+__recovery/
+Win32/
