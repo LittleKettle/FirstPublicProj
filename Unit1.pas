@@ -10,6 +10,7 @@ uses
 type
   TForm1 = class(TForm)
     Button1:  TButton;
+    Button2: TButton;
     procedure FormCreate(Sender: TObject);
 
   private
